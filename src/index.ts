@@ -7,7 +7,7 @@ type ThenArg<T> = T extends PromiseLike<infer U> ? U : T;
 const getClient = (keyFile: string) =>
   google.auth.getClient({
     keyFile,
-    scopes: "https://www.googleapis.com/auth/androidpublisher"
+    scopes: "https:/androidpublisher.googleapis.com"
   });
 
 const getAndroidPublisher = (
