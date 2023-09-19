@@ -1,8 +1,8 @@
 Publish Android App Bundle to Google Play
 
 ```bash
-$ npm install -g publish-aab-google-play
-$ publish-aab-google-play --help
+$ npm install -g publish-android-to-google-play
+$ publish-android-to-google-play --help
 ```
 
 ```bash
