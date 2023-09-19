@@ -1,5 +1,5 @@
 {
-  "name": "publish-aab-google-play",
+  "name": "publish-android-to-google-play",
   "version": "1.1.6",
   "description": "Publish Android App Bundle to Google Play",
   "main": "lib/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/studioLaCosaNostra/publish-aab-google-play.git"
+    "url": "https://github.com/romanvegans/publish-aab-google-play.git"
   },
   "author": "Studio La Cosa Nostra <studiolacosanostra@gmail.com>",
   "license": "ISC",
